@@ -31,7 +31,7 @@ MongoDB
 Eclipse Mosquitto MQTT Broker
 
 -----------------------------------------------------
-ESP8266 -- 1. interfacing with dht22 -- (Temp & humidity sensor)
+## ESP8266 -- 1. interfacing with dht22 -- (Temp & humidity sensor) - MIlestone -1 
 prerequisite:
 1.connection diagram 
 2. board selection , port selection, baudrate setting
